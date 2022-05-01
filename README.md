@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki414&count_private=true&theme=github_dark&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki414&exclude_repo=src_bck&count_private=true&theme=github_dark&)
 
 <!--
 **yuki414/yuki414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
