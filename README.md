@@ -7,4 +7,4 @@ Backend-focused Software Engineer with 6+ years of experience building scalable 
 **Interests**: System design, distributed systems, infrastructure  
 
 ### Connect
-- [LinkedIn](https://www.linkedin.com/in/your-url)
+- [LinkedIn](https://www.linkedin.com/in/uchiyama-yuki414/)
